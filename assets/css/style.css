@@ -69,11 +69,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 72px;
+  height: 90px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  padding: 15px 0;
+  padding: 5px 0;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
@@ -94,8 +94,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #header .logo img {
   padding: 0;
-  margin: 0;
-  max-height: 40px;
+  margin-left: 80px;
+  max-height: 80px;
 }
 
 #main {
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   display: block;
   position: relative;
   color: #4e4039;
-  padding: 10px 15px;
+  padding: 30px 15px;
   transition: 0.3s;
   font-size: 15px;
   font-family: "Open Sans", sans-serif;
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   background: #eb5d1e;
   color: #fff;
   border-radius: 50px;
-  margin: 0 15px;
+  margin: 20px 15px;
   padding: 10px 25px;
 }
 
