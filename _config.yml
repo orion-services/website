@@ -1,0 +1,11 @@
+remote_theme: pmarsceill/just-the-docs
+
+logo: "/assets/img/logo-horizontal-1.png"
+favicon_ico: "/assets/img/favicon.png"
+
+aux_links:
+  "Github":
+    - "https://github.com/orion-services"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2024 <a href='https://orion-services.dev'>Orion Services</a>."
