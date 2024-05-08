@@ -20,3 +20,7 @@ To address these challenges and streamline the development of collaborative
 learning applications, Orion Services offers a suite of scalable, free, and
 open-source microservices under the Apache 2.0 license.
 {: .fs-3 }
+
+<center>
+	<img src="/assets/img/logo-horizontal-1.png" alt="Orion Services" width="50%">
+</center>
