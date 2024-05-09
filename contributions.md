@@ -26,14 +26,15 @@ After to identify the issue, you can contribute to the project by submitting
 pull requests to the repository. To do so, follow these steps:
 {: .fs-3 }
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Push the branch to your fork.
-5. Submit a pull request.
-6. Wait for the review.
-7. Merge the pull request.
-8. Celebrate!
+1. [Fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repository.
+1. Create a new [branch](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) from `dev` branch.
+1. Make your changes. Note: all repositories has a Github Codespaces
+   configuration for you to start coding quickly.
+1. [Push](https://docs.github.com/en/enterprise-cloud@latest/get-started/using-git/pushing-commits-to-a-remote-repository) the branch to your fork.
+1. Submit a [pull request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+1. Wait for the review and comments.
+1. After the review, the project lead will merge the changes for you.
+1. Celebrate!
 {: .fs-3 }
 
 ## Tester
@@ -42,10 +43,10 @@ As a tester you can help us to improve the quality of the project by testing
 the features and reporting bugs. To do so, follow these steps:
 {: .fs-3 }
 
-1. Choose a [issue]((https://github.com/orgs/orion-services/projects/9)) to test.
+1. Choose a issue to test in our [dashboard]((https://github.com/orgs/orion-services/projects/9)).
 2. Test the issue.
 3. If you find a bug, report it in the issuer tracker of the respective
-   repository.
+   repository. Note: mark the issue with the label `bug`.
 4. Wait for the fix.
 5. Celebrate!
 {: .fs-3 }
@@ -59,7 +60,8 @@ If you want to contribute to the documentation, follow these steps:
 
 1. Read the documentation.
 2. If you find a mistake or something that can be improved, report it in the
-   issuer tracker of the respective repository.
+   issuer tracker of the respective repository. Note: mark the issue with the
+   label `documentation`.
 3. Wait for the fix.
 4. Celebrate!
 {: .fs-3 }
