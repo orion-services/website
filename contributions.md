@@ -39,16 +39,37 @@ pull requests to the repository. To do so, follow these steps:
 
 ## Tester
 
-As a tester you can help us to improve the quality of the project by testing
-the features and reporting bugs. To do so, follow these steps:
+To work as a tester, you don't need to have a lot of programming skills.
+You just need to test the features and report bugs. The tester is an essential
+role in the project because it helps us to identify bugs and improve the
+quality of the code. The tester can also help us to write test cases, improve
+the test coverage and the quality of the project. In both cases, the tester
+plays a crucial role in the project. So, if you want to contribute to the
+project as a tester, you are welcome, so please contact us in our Discord
+server to know more about this role and grant you access to the project.
 {: .fs-3 }
 
-1. Choose a issue to test in our [dashboard]((https://github.com/orgs/orion-services/projects/9)).
-2. Test the issue.
-3. If you find a bug, report it in the issuer tracker of the respective
+### To review a pull request
+
+After to be granted access to the project, you can start to review the pull
+requests.
+
+1. Choose a pull request to test or review in our [dashboard]((https://github.com/orgs/orion-services/projects/9)).
+   Please, look the column `Linked pull requests`.
+1. Test/review the issue.
+1. If you find a bug, report it in the issuer tracker of the respective
    repository. Note: mark the issue with the label `bug`.
-4. Wait for the fix.
-5. Celebrate!
+1. Wait for the fix.
+1. Celebrate!
+{: .fs-3 }
+
+### To write test cases
+
+A tester can also help us by writing test cases for the project. Basically, the
+Orion Projects uses Java and JavaScript for the backend and frontend, thus,
+there are several frameworks and libraries that you can use to write test cases.
+If you want to contribute with test cases and code coverage, please contact
+us in our Discord server to know more about this role.
 {: .fs-3 }
 
 ## Documentation
